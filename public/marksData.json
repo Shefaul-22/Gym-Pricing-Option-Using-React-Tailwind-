@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahim Uddin",
+    "marks": {
+      "physics": 74,
+      "chemistry": 81,
+      "math": 69
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sneha Das",
+    "marks": {
+      "physics": 91,
+      "chemistry": 89,
+      "math": 95
+    }
+  },
+  {
+    "id": 4,
+    "name": "Imran Hossain",
+    "marks": {
+      "physics": 66,
+      "chemistry": 72,
+      "math": 70
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mehnaz Rahman",
+    "marks": {
+      "physics": 80,
+      "chemistry": 77,
+      "math": 84
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tariq Islam",
+    "marks": {
+      "physics": 92,
+      "chemistry": 88,
+      "math": 90
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jannat Akter",
+    "marks": {
+      "physics": 78,
+      "chemistry": 83,
+      "math": 76
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nafis Chowdhury",
+    "marks": {
+      "physics": 88,
+      "chemistry": 79,
+      "math": 85
+    }
+  },
+  {
+    "id": 9,
+    "name": "Rafi Ahmed",
+    "marks": {
+      "physics": 69,
+      "chemistry": 65,
+      "math": 72
+    }
+  },
+  {
+    "id": 10,
+    "name": "Farzana Kabir",
+    "marks": {
+      "physics": 95,
+      "chemistry": 91,
+      "math": 97
+    }
+  }
+]

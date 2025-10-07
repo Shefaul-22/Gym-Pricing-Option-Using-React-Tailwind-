@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$29 /month",
+    "description": "Perfect for beginners who want to start their fitness journey at an affordable rate.",
+    "features": [
+      "Access to all gym equipment during staffed hours",
+      "Locker room and shower access",
+      "1 personal trainer session per month",
+      "Free water and towel service",
+      "Access to beginner workout programs",
+      "Basic progress tracking via mobile app",
+      "10% discount on supplements",
+      "Friendly support from on-floor trainers"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$49 /month",
+    "description": "Ideal for regular gym-goers who want more flexibility, group sessions, and personal guidance.",
+    "features": [
+      "All Basic Plan features included",
+      "Unlimited fitness and yoga classes",
+      "3 personal trainer sessions per month",
+      "Diet and nutrition consultation",
+      "Access to sauna and steam room",
+      "Body composition analysis every 3 months",
+      "Guest pass twice a month",
+      "Extended opening hour access",
+      "Workout tracking via app"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$79 /month",
+    "description": "For fitness enthusiasts seeking top-tier service, personal care, and 24/7 access.",
+    "features": [
+      "All Standard Plan features included",
+      "Unlimited personal training sessions",
+      "Customized meal and workout plan",
+      "24/7 gym access with smart card",
+      "Monthly health checkup and progress report",
+      "Dedicated locker and parking space",
+      "Weekly free protein shake",
+      "Priority support and early event access",
+      "Access to premium recovery lounge",
+      "Invitations to exclusive member events"
+    ]
+  }
+]
